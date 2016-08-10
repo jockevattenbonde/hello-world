@@ -7,4 +7,4 @@ it features lists:
 - item2
 - item3
 
-and also *stuff* and other __stuff__
+and also *stuff* and other __stuff__!
